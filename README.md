@@ -11,3 +11,6 @@ The book list can be sorted using the button in the upper right corner. If two b
 3.Favourites</br>
 4.DBA AsyncTask for storing databases on the user's phone</br>
 
+
+
+# Liked this repo, give it a star ⭐ and fork 🍽️ this repository to help others!!
